@@ -11,6 +11,7 @@ This section gathers the most common questions from the community related to pac
   * [Why are CMake find/config files and pkg-config files not packaged?](#why-are-cmake-findconfig-files-and-pkg-config-files-not-packaged)
   * [Should recipes export a recipe's license?](#should-recipes-export-a-recipes-license)
   * [Why recipes that use build tools (like CMake) that have packages in Conan Center do not use it as a build require by default?](#why-recipes-that-use-build-tools-like-cmake-that-have-packages-in-conan-center-do-not-use-it-as-a-build-require-by-default)
+  * [How are rare build systems without generators packaged?](#how-are-rare-build-systems-without-generators-packaged)
   * [Are python requires allowed in the `conan-center-index`?](#are-python-requires-allowed-in-the-conan-center-index)
   * [What version should packages use for libraries without official releases?](#what-version-should-packages-use-for-libraries-without-official-releases)
   * [Is the Jenkins orchestration library publicly available?](#is-the-jenkins-orchestration-library-publicly-available)
